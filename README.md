@@ -28,8 +28,6 @@ Employee Management System is a web-based application developed using Spring Too
 
 ## 📸 Project Screenshot
 
-## 📸 Project Screenshot
-
 ![Dashboard](dashboard.png)
 
 ---
